@@ -6,6 +6,7 @@
 
 # 使用方法 
 1.[Texlive ](http://iso.mirrors.ustc.edu.cn/CTAN/systems/texlive/tlnet/install-tl-windows.exe)
+
 2.[TeX studio](https://github.com/texstudio-org/texstudio/releases/download/2.12.14/texstudio-2.12.14-win-qt5.exe)
 
 
